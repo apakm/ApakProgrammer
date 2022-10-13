@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ApakProgrammer
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning stuff in Python
+- 👀 I’m interested in C# and JavaScript
+- 🌱 I’m currently learning stuff in C# and Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me atgapak@gmail.com
 
